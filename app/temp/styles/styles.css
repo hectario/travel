@@ -663,7 +663,7 @@ margin-bottom: 3.875rem;
 .page-section--testimonials {
 	background-color: #e0e6ef;
   
-		}
+  }
 
 @media (min-width: 1010px) {
 
@@ -671,7 +671,7 @@ margin-bottom: 3.875rem;
 	background: url('/assets/images/testimonials-bg.jpg') top center no-repeat;
 		background-size:cover
   
-		}
+  }
 	}
 
 .headline {
